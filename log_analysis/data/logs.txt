@@ -1,0 +1,12 @@
+*Oct 13 11:17:57.007: %IFMGR-7-NO_IFINDEX_FILE: Unable to open nvram:/ifIndex-table No such file or directory
+*Oct 13 11:17:57.147: %DEC21140-1-INITFAIL: Unsupported PHY brand timed out, csr5=0x0
+*Oct 13 11:17:58.927: %SYS-5-CONFIG_I: Configured from memory by console
+*Oct 13 11:17:59.095: %SYS-5-RESTART: System restarted --
+Cisco IOS Software, 7200 Software (C7200-ADVIPSERVICESK9-M), Version 12.2(33)SRE3, RELEASE SOFTWARE (fc1)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2011 by Cisco Systems, Inc.
+Compiled Tue 25-Jan-11 08:35 by prod_rel_team
+*Oct 13 11:17:59.235: %LINK-5-CHANGED: Interface FastEthernet0/0, changed state to administratively down
+*Oct 13 11:17:59.255: %CRYPTO-6-ISAKMP_ON_OFF: ISAKMP is OFF
+*Oct 13 11:17:59.259: %CRYPTO-6-ISAKMP_ON_OFF: ISAKMP is OFF
+*Oct 13 11:18:00.235: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/0, changed state to down
